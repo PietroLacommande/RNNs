@@ -75,7 +75,8 @@ Objectives include:
   - Dropout rates (e.g., 0.3, 0.5)
   - Batch sizes (e.g., 32, 64)
   - Sequence lengths (e.g., 200, 250)
-- Selected the best combination based on validation performance. A function doing this tuning automatically could be implemented
+- Selected the best combination based on validation performance.
+- A function doing this tuning automatically should be implemented in the future.
 
 ---
 
@@ -99,6 +100,7 @@ Objectives include:
 ## Ethical Considerations and Model Explainability
 
 TODO
+
 ---
 
 ## Deployment on Embedded Systems
