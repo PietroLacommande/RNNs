@@ -4,18 +4,18 @@
 ---
 
 ## Table of Contents
-1. [Project Overview and Objectives](#project-overview-and-objectives)  
-2. [Dataset Acquisition and Preparation](#dataset-acquisition-and-preparation)  
-3. [Text Preprocessing](#text-preprocessing)  
-4. [Feature Extraction](#feature-extraction)  
-5. [Model Training](#model-training)  
-6. [Hyperparameter Tuning](#hyperparameter-tuning)  
-7. [Model Evaluation](#model-evaluation)  
-8. [Carbon Footprint Analysis with CodeCarbon](#carbon-footprint-analysis-with-codecarbon)  
-9. [Ethical Considerations and Model Explainability](#ethical-considerations-and-model-explainability)  
-10. [Deployment on Embedded Systems](#deployment-on-embedded-systems)  
-11. [Code Release Responsibilities](#code-release-responsibilities)  
-12. [License](#license)  
+1. [Project Overview and Objectives](#project-overview-and-objectives)
+2. [Dataset Acquisition and Preparation](#dataset-acquisition-and-preparation)
+3. [Text Preprocessing](#text-preprocessing)
+4. [Feature Extraction](#feature-extraction)
+5. [Model Training](#model-training)
+6. [Hyperparameter Tuning](#hyperparameter-tuning)
+7. [Model Evaluation](#model-evaluation)
+8. [Carbon Footprint Analysis with CodeCarbon](#carbon-footprint-analysis-with-codecarbon)
+9. [Ethical Considerations and Model Explainability](#ethical-considerations-and-model-explainability)
+10. [Deployment on Embedded Systems](#deployment-on-embedded-systems)
+11. [Code Release Responsibilities](#code-release-responsibilities)
+12. [License](#license)
 
 ---
 
@@ -24,11 +24,11 @@
 The goal of this project is to build an advanced **sentiment analysis model** using **Recurrent Neural Networks (RNNs)**.
 
 Objectives include:
-- Preprocess and vectorize text reviews  
+- Preprocess and vectorize text reviews
 - Train, tune, and evaluate.
-- Visualize model explainability using **SHAP** and **LIME**  
-- Measure the **carbon footprint** using CodeCarbon  
-- Reflect on **ethical considerations** in AI  
+- Visualize model explainability using **SHAP** and **LIME**
+- Measure the **carbon footprint** using CodeCarbon
+- Reflect on **ethical considerations** in AI
 - Deploy the model to an embedded system
 
 ---
@@ -43,9 +43,9 @@ Objectives include:
 
 ## Text Preprocessing
 
-- Remove HTML tags and punctuation  
-- Convert all text to lowercase  
-- Remove English stopwords  
+- Remove HTML tags and punctuation
+- Convert all text to lowercase
+- Remove English stopwords
 - Tokenize and pad sequences to a fixed length (e.g., 200 tokens)
 
 ---
