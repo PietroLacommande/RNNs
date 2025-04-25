@@ -97,7 +97,12 @@ Objectives include:
 
 ---
 
-## Ethical Considerations and Model Explainability
+## Ethical Considerations
+
+-Potential misuse to filter out negative feedback or fail to distinguish between genuine reviews and AI-generated content
+-Human judgment remains essential when interpreting results
+
+## Model Explainability
 
 TODO
 
